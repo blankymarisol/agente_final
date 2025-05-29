@@ -92,8 +92,7 @@ Ejemplos de lo que el sistema puede sugerirte:
 ---
 
 <div align="center">
-
-⭐ **Si te gusta este proyecto, ¡no olvides dejar una estrella!** ⭐  
+  
 Hecho con 💜 para estudiantes motivados como tú.
 
 </div>
