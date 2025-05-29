@@ -1,0 +1,58 @@
+{
+  "usuarios": {
+    "user_1": {
+      "nombre": "Blanky",
+      "nivel": "principiante",
+      "intereses": [
+        "python"
+      ],
+      "fecha_registro": "2025-05-28"
+    }
+  },
+  "planes": {
+    "plan_1": {
+      "usuario_id": "user_1",
+      "tema": "variables",
+      "objetivos": [
+        "Entender los fundamentos de variables",
+        "Practicar variables regularmente",
+        "Aplicar variables en situaciones reales",
+        "Alcanzar nivel principiante en variables"
+      ],
+      "recursos": [
+        "🔍 Buscar cursos online de variables",
+        "📚 Libros especializados en variables",
+        "🎥 Videos educativos en YouTube",
+        "💪 Práctica diaria de variables"
+      ],
+      "progreso": 4,
+      "fecha_creacion": "2025-05-28",
+      "fecha_limite": "2025-06-03"
+    }
+  },
+  "sesiones": [
+    {
+      "plan_id": "plan_1",
+      "duracion": 66,
+      "puntuacion": 7.0,
+      "fecha": "2025-05-28",
+      "hora": "19:57",
+      "notas": "Debo practicar ejercicios"
+    }
+  ],
+  "puntos": {
+    "user_1": 23
+  },
+  "logros": {
+    "user_1": [
+      "primer_dia"
+    ]
+  },
+  "rachas": {
+    "user_1": {
+      "actual": 1,
+      "maxima": 1,
+      "ultima_fecha": "2025-05-28"
+    }
+  }
+}
